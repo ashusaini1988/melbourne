@@ -1,6 +1,6 @@
 def fibonacci(n):
     '''
-    this is a fibonacci series function.
+    This is a fibonacci series function.
     '''
     a, b = 0, 1
     while n > 0:
